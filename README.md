@@ -11,7 +11,7 @@
 ## 웹 프로젝트 사용방법
 > 1. mapapp.zip 압축해제
 > 1. STS 실행
-> 2. Import projects.. > Existing Gradle Project  > 합축해제 폴더 선택 > Finish
+> 2. Import projects.. > Existing Gradle Project  > 압축해제 폴더 선택 > Finish
 
 ## 안드로이드 프로젝트 사용방법
 > 1. 안드로이드 스튜디오 실행
